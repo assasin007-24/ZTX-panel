@@ -1,0 +1,17 @@
+{
+  "name": "ztx",
+  "version": "1.0.0",
+  "main": "create_user.js",
+  "scripts": {
+    "create-user": "node create_user.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "inquirer": "^12.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}

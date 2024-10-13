@@ -1,0 +1,12 @@
+[
+    {
+        "name": "minecraftdocker",
+        "description": "",
+        "dockerfile": "images/iso/minecraft/Dockerfile"
+    },
+    {
+        "name": "Node.js App",
+        "description": "A Node.js application container",
+        "dockerfile": "images/iso/node/Dockerfile"
+    }
+]
